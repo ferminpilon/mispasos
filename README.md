@@ -1,0 +1,2 @@
+# mispasos
+incio de preparacion
